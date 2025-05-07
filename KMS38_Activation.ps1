@@ -4,16 +4,16 @@
 
 
 ::============================================================================
-::
+::   (spizheno from)
 ::   Homepage: mass grave[.]dev
 ::      Email: mas.help@outlook.com
-::
+::   (thx btw for the script)
 ::============================================================================
 
 
 
 ::  To activate, run the script with "/KMS38" parameter or change 0 to 1 in below line
-set _act=0
+set _act=1
 
 ::  To remove KMS38 protection, run the script with /KMS38-RemoveProtection parameter or change 0 to 1 in below line
 set _rem=0
